@@ -53,14 +53,7 @@ brew install zenity
 **Windows:**
 * Zenity, Windows'ta doğrudan desteklenmez. Alternatif olarak WSL kullanabilirsiniz.
 
-### 3. Veri Klasörlerini ve Dosyalarını Hazırlayın
-
-```bash
-mkdir -p veri yedekler
-touch veri/depo.csv veri/kullanici.csv veri/log.csv
-```
-
-### 4. Programı Başlatın
+### 3. Programı Başlatın
 
 ```bash
 bash main.sh
