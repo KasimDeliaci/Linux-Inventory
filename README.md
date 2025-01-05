@@ -24,12 +24,10 @@ Sistemin nasıl çalıştığını gösteren bir videoya bu linkten ulaşabilirs
 
 ### Raporlama
 * Stokta azalan ürünler
-* Fiyatlara göre ürün sıralaması
 * En yüksek stok miktarına sahip ürünler
-
-### Kullanıcı Dostu Arayüz
-* Zenity'nin modern ve kolay anlaşılır bileşenleri ile geliştirilmiştir
-* Çıkış ve iptal işlemleri için güvenli ve açıklayıcı uyarılar
+* Fiyata Göre Sıralama
+* Envanteri Listeleme
+* Kategori bazlı sıralama
 
 ## 🖥️ Nasıl Kurulur?
 
