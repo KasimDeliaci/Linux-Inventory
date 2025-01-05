@@ -1,0 +1,8 @@
+# Kullanıcı Adı,Şifre (MD5),Rol,Hesap Durumu
+admin,d41d8cd98f00b204e9800998ecf8427e,Yönetici,Aktif
+user,5f4dcc3b5aa765d61d8327deb882cf99,Kullanıcı,Aktif
+kasim,0bd8125169324b05eccdeedbe36c19da,Kullanıcı,Aktif
+yunus,52ef93095f0ae71a97a7faf5473cb4bd,Kullanıcı,Aktif
+yusufhoca,789174e35846b82ea914eaf93b338ad7,Kullanıcı,Aktif
+alicanabi,10370761584845232103d59c41d296a6,Kullanıcı,Aktif
+mert,fe1ecd0d13b8fce1ac50158695e62c34,Kullanıcı,Aktif

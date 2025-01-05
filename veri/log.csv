@@ -1,0 +1,44 @@
+2025-01-04 21:06:24,ERROR,Ürün adı veya kategori boşluk içeriyor
+2025-01-04 21:15:01,ERROR,Ürün ekleme sırasında eksik bilgi girildi
+2025-01-04 21:15:14,ERROR,Ürün adı veya kategori boşluk içeriyor
+2025-01-04 21:15:58,ERROR,Silinmek istenen ürün bulunamadı
+2025-01-04 21:22:03,ERROR,Silinmek istenen ürün bulunamadı
+2025-01-04 21:27:16,ERROR,Aynı isim ve kategoriyle ürün eklenmeye çalışıldı
+2025-01-04 21:27:26,ERROR,Silinmek istenen ürün bulunamadı
+2025-01-05 07:24:36,BOOT,Sistem başlatıldı
+2025-01-05 07:27:45,BOOT,Sistem başlatıldı
+2025-01-05 07:27:58,BOOT,Sistem başlatıldı
+2025-01-05 07:28:10,HATALI_GIRIS,"kasim hatalı giriş yaptı (yanlış şifre)"
+2025-01-05 07:34:42,BOOT,Sistem başlatıldı
+2025-01-05 13:40:02,BOOT,Sistem başlatıldı
+2025-01-05 13:47:10,BOOT,Sistem başlatıldı
+2025-01-05 13:47:21,BOOT,Sistem başlatıldı
+2025-01-05 14:00:05,BOOT,Sistem başlatıldı
+2025-01-05 14:04:08,BOOT,Sistem başlatıldı
+2025-01-05 14:08:18,ERROR,Güncellenmek istenen ürün bulunamadı
+2025-01-05 14:13:26,BOOT,Sistem başlatıldı
+2025-01-05 14:17:03,BOOT,Sistem başlatıldı
+2025-01-05 14:21:18,ERROR,Aynı isim ve kategoriyle ürün eklenmeye çalışıldı
+2025-01-05 14:22:10,ERROR,Güncellenmek istenen ürün bulunamadı
+2025-01-05 14:22:45,ERROR,Güncellenmek istenen ürün bulunamadı
+2025-01-05 14:26:06,BOOT,Sistem başlatıldı
+2025-01-05 14:30:40,BOOT,Sistem başlatıldı
+2025-01-05 14:34:47,BOOT,Sistem başlatıldı
+2025-01-05 14:39:51,ERROR,Aynı isim ve kategoriyle ürün eklenmeye çalışıldı
+2025-01-05 14:40:08,ERROR,Stok miktarı geçersiz
+2025-01-05 14:47:22,BOOT,Sistem başlatıldı
+2025-01-05 14:51:48,ERROR,Stok miktarı geçersiz
+2025-01-05 14:52:11,ERROR,Aynı isim ve kategoriyle ürün eklenmeye çalışıldı
+2025-01-05 14:56:20,BOOT,Sistem başlatıldı
+2025-01-05 14:56:43,HATALI_GIRIS,"kasim hatalı giriş yaptı (yanlış şifre)"
+2025-01-05 14:56:48,HATALI_GIRIS,"kasim hatalı giriş yaptı (yanlış şifre)"
+2025-01-05 14:56:56,HATALI_GIRIS,"kasim hatalı giriş yaptı (yanlış şifre)"
+2025-01-05 14:56:57,HESAP_KILITLENDI,"kasim hesabı kilitlendi"
+2025-01-05 14:57:05,HATALI_GIRIS,"kasim hatalı giriş yaptı (hesap kilitli)"
+2025-01-05 14:57:45,BOOT,Sistem başlatıldı
+2025-01-05 15:01:08,BOOT,Sistem başlatıldı
+2025-01-05 15:06:52,BOOT,Sistem başlatıldı
+2025-01-05 15:13:27,BOOT,Sistem başlatıldı
+2025-01-05 15:13:32,BOOT,Sistem başlatıldı
+2025-01-05 15:17:16,BOOT,Sistem başlatıldı
+2025-01-05 15:17:42,ERROR,Ürün adı veya kategori boşluk içeriyor
